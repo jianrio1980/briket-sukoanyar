@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jerami padi</title><desc id="desc">Ikatan jerami padi di atas lahan pertanian</desc>
+  <rect width="520" height="360" fill="#edf7fa"/>
+  <path d="M0 286c92-40 171-31 253 2 79 31 159 28 267-11v83H0z" fill="#cfe8dc"/>
+  <ellipse cx="263" cy="280" rx="172" ry="30" fill="#aacdbb" opacity=".55"/>
+  <g fill="none" stroke="#bd8731" stroke-width="7" stroke-linecap="round">
+    <path d="M152 265 227 91M176 271 248 80M205 276l67-189M239 279l53-194M273 279l43-178M307 276l35-160M339 267l22-130"/>
+  </g>
+  <g fill="#d9a947">
+    <path d="m214 115-25-20 30 5zm18-26-23-18 28 5zm32 19-27-17 31 3zm20-22-21-20 27 8zm30 36-27-17 31 4zm28 18-24-20 29 7z"/>
+  </g>
+  <path d="M166 218c65 16 124 17 181 2" fill="none" stroke="#1765a8" stroke-width="15" stroke-linecap="round"/>
+  <path d="M177 219c54 12 106 13 158 2" fill="none" stroke="#e3f2f7" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="420" cy="72" r="35" fill="#fff" opacity=".72"/>
+</svg>
